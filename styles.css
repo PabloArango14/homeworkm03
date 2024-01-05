@@ -11,6 +11,7 @@ h1 {
 }
 
 h2 {
+  margin: 30px;
   color: #2ecc71;
 }
 
@@ -20,4 +21,12 @@ p {
 
 strong {
   color: #f39c12;
+}
+
+div {
+  border: solid;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 20px;
+  border-color: #95a5a6;
 }
